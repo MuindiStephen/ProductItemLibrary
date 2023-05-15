@@ -19,7 +19,7 @@
 ### Step 2. Add the dependency
 ```gradle
 dependencies {
-	    implementation 'com.github.MuindiStephen:ProductItem:1.0.2'
+   implementation 'com.github.MuindiStephen:ProductItemLibrary:1.0.2'
 }
 ```
 ## How to Implement it in your Compose UI
