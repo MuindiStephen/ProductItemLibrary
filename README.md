@@ -1,5 +1,8 @@
 # ProductItem Android Library Demo in Jetpack Compose
 
+<img src="
+jitpack.png"/>
+
 ## How To include it in your Android Projects 
 
 #
