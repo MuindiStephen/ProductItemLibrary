@@ -3,9 +3,8 @@ package com.steve_md.androidlibrarydemo
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.material.MaterialTheme
-import androidx.compose.material.Surface
 import androidx.compose.ui.Modifier
 import com.steve_md.androidlibrarydemo.ui.theme.AndroidLibraryDemoTheme
 
@@ -14,13 +13,9 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             AndroidLibraryDemoTheme {
-                // A surface container using the 'background' color from the theme
-                Surface(
-                    modifier = Modifier.fillMaxSize(),
-                    color = MaterialTheme.colors.background
-                ) {
+               Box(modifier = Modifier.fillMaxSize()) {
 
-                }
+               }
             }
         }
     }
