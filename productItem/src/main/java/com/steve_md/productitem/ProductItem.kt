@@ -1,4 +1,4 @@
-package com.steve_md.androidlibrarydemo
+package com.steve_md.productitem
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
