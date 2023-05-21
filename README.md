@@ -1,4 +1,6 @@
-# ProductItem Android Library Demo in Jetpack Compose
+# Published my own android library
+
+## ProductItem Android Library Demo in Jetpack Compose
 
 <img src="
 jitpack.png"/>
